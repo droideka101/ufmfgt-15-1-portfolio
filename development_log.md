@@ -5,7 +5,7 @@ Task two:
 <img width="372" height="610" alt="image" src="https://github.com/user-attachments/assets/3e2be120-059c-4202-bfce-03c5f59d7919" />   
  Task three:  
 <img width="722" height="325" alt="Screenshot 2026-01-29 152448" src="https://github.com/user-attachments/assets/9043c1d6-29c5-44e7-bc7a-69bbfdcb162d" />  
-Task four:
+Task four:  
 Psuedo Code  
 <img width="577" height="292" alt="image" src="https://github.com/user-attachments/assets/b62faa5a-f494-4c49-b86a-57209c8cfb3d" />  
 Flow chart  
