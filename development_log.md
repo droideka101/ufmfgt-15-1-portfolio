@@ -2,7 +2,7 @@ Week One:
 
 <img width="487" height="219" alt="image" src="https://github.com/user-attachments/assets/b86f92bc-f72a-41a5-9fe9-d1bbaef58aa2" />  
 
-<img width="372" height="610" alt="image" src="https://github.com/user-attachments/assets/3e2be120-059c-4202-bfce-03c5f59d7919" />  
+<img width="372" height="610" alt="image" src="https://github.com/user-attachments/assets/3e2be120-059c-4202-bfce-03c5f59d7919" />   
  
 <img width="722" height="325" alt="Screenshot 2026-01-29 152448" src="https://github.com/user-attachments/assets/9043c1d6-29c5-44e7-bc7a-69bbfdcb162d" />  
 
