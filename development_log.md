@@ -42,6 +42,27 @@ The code does not work due to the condition for outputing positive is (sum % 2 =
 
 <img width="261" height="269" alt="image" src="https://github.com/user-attachments/assets/737ec8da-e804-42e8-b8d5-4ad00e19be14" />  
 
+### C code  
+
+<img width="582" height="688" alt="image" src="https://github.com/user-attachments/assets/8fce2a19-a3f6-44f9-a29a-49818faf9628" />  
+
+## Task Two:  
+
+### Flow chart  
+
+<img width="690" height="581" alt="image" src="https://github.com/user-attachments/assets/4791526c-8c2b-4910-87c4-776383d40b21" />  
+
+### C code:  
+
+<img width="683" height="638" alt="image" src="https://github.com/user-attachments/assets/077efe07-766c-4f94-851a-c947f3a822ee" />
+
+## Task Three:  
+
+
+
+
+
+
 
 
 
