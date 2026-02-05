@@ -33,3 +33,15 @@ Psuedo Code
   
 <img width="1040" height="388" alt="image" src="https://github.com/user-attachments/assets/8928996e-91b4-4f3b-8e75-506bb2cd44b5" />  
 The code does not work due to the condition for outputing positive is (sum % 2 == 0) which is checking whether the sum is divisible by two, therefor making any even number report as positive, the condition should be (sum > 0)  
+
+# Week Two  
+
+## Task One:
+
+### Psuedo code  
+
+<img width="261" height="269" alt="image" src="https://github.com/user-attachments/assets/737ec8da-e804-42e8-b8d5-4ad00e19be14" />  
+
+
+
+
