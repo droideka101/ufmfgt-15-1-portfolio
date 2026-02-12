@@ -28,7 +28,7 @@ Psuedo Code
 <img width="583" height="521" alt="Screenshot 2026-01-29 150944" src="https://github.com/user-attachments/assets/3f5b3577-68d0-4c44-bc97-23f200626006" />  
   
 ## Task six:  
-  
+
 ### Test Table  
   
 <img width="1040" height="388" alt="image" src="https://github.com/user-attachments/assets/8928996e-91b4-4f3b-8e75-506bb2cd44b5" />  
@@ -99,4 +99,116 @@ The code does not work due to the condition for outputing positive is (sum % 2 =
 <img width="666" height="686" alt="image" src="https://github.com/user-attachments/assets/134a8636-b400-4c9c-ac72-2af26e5200c3" />  
 
 # Week Three  
+
+## Task One
+
+### Psuedo Code
+
+<img width="464" height="521" alt="image" src="https://github.com/user-attachments/assets/08eef4b1-dc22-459b-b3a5-b3dfa5275b81" />  
+
+### C code  
+
+<img width="936" height="616" alt="image" src="https://github.com/user-attachments/assets/9edc5e8f-3067-4b70-824f-be42f8fb0d4f" />
+
+## Task Two  
+
+### Psuedo code  
+
+```
+START
+
+    FLOAT num1, num2, num3, num4, numTemp
+
+    OUTPUT "Input the 4 values to be sorted"
+
+    INPUT num1, num2, num3, num4 
+
+
+    // Ascending Order
+
+    IF num1 > num2
+        numTemp = num1
+        num1 = num2
+        num2 = numTemp
+    END IF
+
+    IF num1 > num3
+        numTemp = num1
+        num1 = num3
+        num3 = numTemp
+    END IF
+
+    IF num1 > num4
+        numTemp = num1
+        num1 = num4
+        num4 = numTemp
+    END IF
+
+    IF num2 > num3
+        numTemp = num2
+        num2 = num3
+        num3 = numTemp
+    END IF
+
+    IF num2 > num4
+        numTemp = num2
+        num2 = num4
+        num4 = numTemp
+    END IF
+
+    IF num3 > num4
+        numTemp = num3
+        num3 = num4
+        num4 = numTemp
+    END IF
+
+    OUTPUT "Ascending order:", num1, num2, num3, num4
+
+
+    // Descending Order
+
+    IF num1 < num2
+        numTemp = num1
+        num1 = num2
+        num2 = numTemp
+    END IF
+
+    IF num1 < num3
+        numTemp = num1
+        num1 = num3
+        num3 = numTemp
+    END IF
+
+    IF num1 < num4
+        numTemp = num1
+        num1 = num4
+        num4 = numTemp
+    END IF
+
+    IF num2 < num3
+        numTemp = num2
+        num2 = num3
+        num3 = numTemp
+    END IF
+
+    IF num2 < num4
+        numTemp = num2
+        num2 = num4
+        num4 = numTemp
+    END IF
+
+    IF num3 < num4
+        numTemp = num3
+        num3 = num4
+        num4 = numTemp
+    END IF
+
+    OUTPUT "Descending order:", num1, num2, num3, num4
+
+END
+```
+
+### C code  
+
+<img width="1074" height="873" alt="image" src="https://github.com/user-attachments/assets/0614f3cf-afa2-4908-8421-e0cb0dac759c" />
 
