@@ -212,3 +212,65 @@ END
 
 <img width="1074" height="873" alt="image" src="https://github.com/user-attachments/assets/0614f3cf-afa2-4908-8421-e0cb0dac759c" />
 
+## Task Three  
+
+### Psuedo code
+
+# Random Number Guessing Game (Pseudocode)
+
+```
+START
+
+    INT randomValue = rand() % 101
+    INT userGuess
+
+    OUTPUT "Guess the random number (3/3 guesses remaining)"
+    INPUT userGuess
+
+    IF userGuess == randomValue
+        OUTPUT "Correct!"
+        RETURN
+    ELSE
+        IF userGuess < randomValue
+            OUTPUT "Too low, guess again (2/3 guesses remaining)"
+        ELSE
+            OUTPUT "Too high, guess again (2/3 guesses remaining)"
+
+    INPUT userGuess
+
+    IF userGuess == randomValue
+        OUTPUT "Correct!"
+        RETURN
+    ELSE
+        IF userGuess < randomValue
+            OUTPUT "Too low, guess again (1/3 guesses remaining)"
+        ELSE
+            OUTPUT "Too high, guess again (1/3 guesses remaining)"
+
+    INPUT userGuess
+
+    IF userGuess == randomValue
+        OUTPUT "Correct!"
+        RETURN
+    ELSE
+        IF userGuess < randomValue
+            OUTPUT "Too low, 0/3 guesses remaining"
+        ELSE
+            OUTPUT "Too high, 0/3 guesses remaining"
+
+END
+```
+
+### C code  
+
+<img width="1408" height="868" alt="image" src="https://github.com/user-attachments/assets/0c7d2ccf-1237-4b3b-99ea-40ee5da157f4" />  
+
+## Task Four  
+
+### Psuedo code
+
+
+### C code
+
+
+
