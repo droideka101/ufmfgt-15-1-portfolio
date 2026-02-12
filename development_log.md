@@ -269,8 +269,11 @@ END
 
 ### Psuedo code
 
+<img width="621" height="421" alt="image" src="https://github.com/user-attachments/assets/d532a76a-ac97-4865-878a-6d7185fc0869" />  
 
 ### C code
+
+<img width="1130" height="875" alt="image" src="https://github.com/user-attachments/assets/c4219824-9994-45f7-8328-8b1d5bce4926" />  
 
 
 
