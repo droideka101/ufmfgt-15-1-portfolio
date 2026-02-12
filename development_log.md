@@ -52,17 +52,51 @@ The code does not work due to the condition for outputing positive is (sum % 2 =
 
 <img width="690" height="581" alt="image" src="https://github.com/user-attachments/assets/4791526c-8c2b-4910-87c4-776383d40b21" />  
 
-### C code:  
+### C code  
 
 <img width="683" height="638" alt="image" src="https://github.com/user-attachments/assets/077efe07-766c-4f94-851a-c947f3a822ee" />
 
 ## Task Three:  
 
+### Psuedo Code  
 
+<img width="453" height="258" alt="Screenshot 2026-02-05 145502" src="https://github.com/user-attachments/assets/ab608122-0e06-4ac8-8b77-5bde80dcfc62" />  
 
+### C code  
 
+<img width="609" height="554" alt="Screenshot 2026-02-05 145826" src="https://github.com/user-attachments/assets/7a8489d7-d358-4cd3-8fa0-e28274582ed2" />  
 
+## Task Four:  
 
+### Flow Chart  
 
+<img width="734" height="649" alt="Screenshot 2026-02-05 150612" src="https://github.com/user-attachments/assets/965e44ce-824b-4a5f-b0e8-34a7a8a6b814" />  
 
+### C code  
+
+<img width="981" height="718" alt="Screenshot 2026-02-05 151048" src="https://github.com/user-attachments/assets/e2090a43-8f6e-4310-844d-c214348e6632" />  
+
+## Task Five:  
+
+### Psuedo code  
+
+<img width="509" height="471" alt="Screenshot 2026-02-05 152932" src="https://github.com/user-attachments/assets/6479d2dc-4fc6-49b7-bcc2-3f8f013f8392" />  
+
+### C code  
+
+<img width="788" height="864" alt="Screenshot 2026-02-05 153813" src="https://github.com/user-attachments/assets/97d4f584-7d9e-406e-a09f-5efe9734dda1" />  
+
+## Task Six:  
+
+### C code  
+
+<img width="769" height="566" alt="image" src="https://github.com/user-attachments/assets/58982fa0-624f-41a1-97b4-7ed6bdfd3c07" />  
+
+## Task Seven:
+
+### C code
+
+<img width="666" height="686" alt="image" src="https://github.com/user-attachments/assets/134a8636-b400-4c9c-ac72-2af26e5200c3" />  
+
+# Week Three  
 
