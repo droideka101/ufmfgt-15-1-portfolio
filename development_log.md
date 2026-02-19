@@ -315,6 +315,35 @@ END
 
 <img width="913" height="605" alt="image" src="https://github.com/user-attachments/assets/d6ddf39c-c261-4e58-a6c7-1bd5068e654b" />  
 
+# Week Four  
+
+## Task One  
+
+### Psuedo code  
+
+<img width="254" height="231" alt="image" src="https://github.com/user-attachments/assets/fd852596-a635-47db-98c2-4adf273af35c" />
+
+### C code   
+
+<img width="792" height="535" alt="image" src="https://github.com/user-attachments/assets/054854f3-b984-4f2a-af68-bc0dc3dbddf6" />
+
+## Task Two
+
+### Psuedo Ccode  
+
+<img width="684" height="610" alt="image" src="https://github.com/user-attachments/assets/ae69b5be-6fe7-4124-92bc-4a5e51c642e0" />
+
+### C code  
+
+<img width="1132" height="809" alt="image" src="https://github.com/user-attachments/assets/f3aefee4-1881-4d06-9813-3a2dbcc0b061" />
+
+## Task Three  
+
+### Psuedo code   
+
+### C code  
+
+
 
 
 
