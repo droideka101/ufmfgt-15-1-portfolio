@@ -339,10 +339,29 @@ END
 
 ## Task Three  
 
-### Psuedo code   
+### Psuedo code  
+
+<img width="682" height="406" alt="image" src="https://github.com/user-attachments/assets/0dab9692-08a9-4586-a4f8-46da14c5eadb" />
 
 ### C code  
 
+<img width="1156" height="680" alt="image" src="https://github.com/user-attachments/assets/cff09f82-7e8d-4274-8bb3-6181a566df07" />  
+
+## Task Four
+
+### Psuedo code  
+
+<img width="397" height="440" alt="image" src="https://github.com/user-attachments/assets/d211d478-366e-48dd-9c72-4feb96305e28" />  
+
+### C code
+
+<img width="882" height="749" alt="image" src="https://github.com/user-attachments/assets/00cd14ce-701a-4951-9d23-fa0946984552" />  
+
+## Task Five
+
+### Psuedo code
+
+### C code
 
 
 
