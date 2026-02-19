@@ -275,5 +275,48 @@ END
 
 <img width="1130" height="875" alt="image" src="https://github.com/user-attachments/assets/c4219824-9994-45f7-8328-8b1d5bce4926" />  
 
+## Task Five  
+
+### Psuedo code  
+
+<img width="487" height="432" alt="image" src="https://github.com/user-attachments/assets/cb982549-d9dc-4184-9133-7dd22e4bb5bb" />  
+
+### C code  
+
+<img width="1046" height="818" alt="image" src="https://github.com/user-attachments/assets/46104cb2-848c-43b6-b7fb-d9c9c1abb868" />  
+
+## Task Six  
+
+### Psuedo code  
+
+<img width="729" height="452" alt="image" src="https://github.com/user-attachments/assets/718f3476-8dae-4c9e-9bc3-fb51f2f12586" />  
+
+### C code  
+
+<img width="1142" height="884" alt="image" src="https://github.com/user-attachments/assets/a154a8e6-9a06-467b-b663-9fd828c0729e" />  
+
+## Task Seven
+
+### Psuedo code
+
+<img width="652" height="276" alt="image" src="https://github.com/user-attachments/assets/16b5a45d-fc4b-4894-a667-29d067b0af13" />  
+
+### C code  
+
+<img width="1134" height="746" alt="image" src="https://github.com/user-attachments/assets/c726ae02-49eb-49fd-a0c0-0b09d759d38d" />  
+
+## Task Eight
+
+### Psuedo code
+
+<img width="414" height="228" alt="image" src="https://github.com/user-attachments/assets/03bc979b-7e1a-41f1-869b-0c7adc1a015a" />
+
+### C code
+
+<img width="913" height="605" alt="image" src="https://github.com/user-attachments/assets/d6ddf39c-c261-4e58-a6c7-1bd5068e654b" />  
+
+
+
+
 
 
